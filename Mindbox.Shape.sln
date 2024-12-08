@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Shape.Core", "Mindbox.Shape.Core\Mindbox.Shape.Core.csproj", "{39F4B74E-612E-415C-AB15-8FE97A8E89E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Shape.UnitTests", "Mindbox.Shape.UnitTests\Mindbox.Shape.UnitTests.csproj", "{EA2C1E19-7885-4DB2-9AF0-4C87E86604BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{39F4B74E-612E-415C-AB15-8FE97A8E89E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39F4B74E-612E-415C-AB15-8FE97A8E89E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39F4B74E-612E-415C-AB15-8FE97A8E89E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA2C1E19-7885-4DB2-9AF0-4C87E86604BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2C1E19-7885-4DB2-9AF0-4C87E86604BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2C1E19-7885-4DB2-9AF0-4C87E86604BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2C1E19-7885-4DB2-9AF0-4C87E86604BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
